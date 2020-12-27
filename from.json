@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "id": "1032bc8cc194a626d5faa364476f540b",
+        "format": "png",
+        "state": 2,
+        "type": 1,
+        "name": "vlcsnap-2020-11-20-12h11m06s574.png",
+        "path": "https://jasminemodelscoco.blob.core.windows.net/g4s/vlcsnap-2020-11-20-12h11m06s574.png?sv=2019-12-12&ss=btqf&srt=sco&st=2019-11-18T07%3A13%3A00Z&se=2021-11-19T07%3A13%3A00Z&sp=rwdxlacup&sig=EEB%2BLaZcdqGRU8RNnroqJC%2B7Gh0B3JpjNxPJDAhBCtw%3D",
+        "size": {
+            "width": 1920,
+            "height": 1080  
+        }
+    },
+    "regions": [
+        {
+            "id": "lYCcBlBIX",
+            "type": "RECTANGLE",
+            "tags": [
+                "person"
+            ],
+            "boundingBox": {
+                "height": 79.72661172862911,
+                "width": 41.337946943483274,
+                "left": 588.6228553921569,
+                "top": 254.63601624077506
+            },
+            "points": [
+                {
+                    "x": 588.6228553921569,
+                    "y": 254.63601624077506
+                },
+                {
+                    "x": 629.9608023356402,
+                    "y": 254.63601624077506
+                },
+                {
+                    "x": 629.9608023356402,
+                    "y": 334.3626279694042
+                },
+                {
+                    "x": 588.6228553921569,
+                    "y": 334.3626279694042
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

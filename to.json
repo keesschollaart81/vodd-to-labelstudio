@@ -1,0 +1,53 @@
+{
+    "completions": [
+        {
+            "created_at": 1608890641,
+            "id": 10001,
+            "lead_time": 3340.747,
+            "result": [
+                {
+                    "from_name": "label",
+                    "id": "lzoXUh7EXl",
+                    "image_rotation": 0,
+                    "original_height": 1080,
+                    "original_width": 1920,
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 13.636363636363637,
+                        "rectanglelabels": [
+                            "Motor"
+                        ],
+                        "rotation": 0,
+                        "width": 4.904051172707889,
+                        "x": 51.59914712153518,
+                        "y": 21.59090909090909
+                    }
+                },
+                {
+                    "from_name": "label",
+                    "id": "jdIy5NrMfE",
+                    "image_rotation": 0,
+                    "original_height": 1080,
+                    "original_width": 1920,
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "value": {
+                        "height": 19.318181818181817,
+                        "rectanglelabels": [
+                            "Person"
+                        ],
+                        "rotation": 0,
+                        "width": 10.021321961620469,
+                        "x": 89.97867803837953,
+                        "y": 80.68181818181819
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "http:\/\/localhost:8080\/data\/upload\/8faf05-vlcsnap-2020-11-20-12h10m22s773.png"
+    },
+    "id": 10
+}
